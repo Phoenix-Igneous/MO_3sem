@@ -1,0 +1,49 @@
+       Default symplic table
+   4.00   2.00   1.00   1.00  X4
+   6.00   1.00   2.00   0.00  X5
+   2.00   0.00   0.50   1.00  X6
+   0.00   2.00   8.00   3.00  F
+      S     X1     X2     X3       
+Razr stolb X1               
+Razr stroka X4              
+
+             Symplic table 1
+   2.00   0.50   0.50   0.50  X1
+   4.00  -0.50   1.50  -0.50  X5
+   2.00   0.00   0.50   1.00  X6
+  -4.00  -1.00   7.00   2.00  F
+      S     X4     X2     X3       
+Razr stolb X3               
+Razr stroka X6              
+
+             Symplic table 2
+   1.00   0.50   0.25  -0.50  X1
+   5.00  -0.50   1.75   0.50  X5
+   2.00   0.00   0.50   1.00  X3
+  -8.00  -1.00   6.00  -2.00  F
+      S     X4     X2     X6       
+Razr stolb X2               
+Razr stroka X5              
+
+             Symplic table 3
+   0.29   0.57  -0.14  -0.57  X1
+   2.86  -0.29   0.57   0.29  X2
+   0.57   0.14  -0.29   0.86  X3
+ -25.14   0.71  -3.43  -3.71  F
+      S     X4     X5     X6       
+Razr stolb X4               
+Razr stroka X1              
+
+             Symplic table 4
+   0.50   1.75  -0.25  -1.00  X4
+   3.00   0.50   0.50   0.00  X2
+   0.50  -0.25  -0.25   1.00  X3
+ -25.50  -1.25  -3.25  -3.00  F
+      S     X1     X5     X6       
+       No more positive in F
+
+Answer:
+Fmax =  25.500   
+X1 = 0.00   
+X2 = 3.00   
+X3 = 0.50   
